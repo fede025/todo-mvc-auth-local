@@ -1,5 +1,5 @@
 h1{
-    color: red;
+    color: rgb(255, 81, 0);
 }
 .completed{
     text-decoration: line-through;
@@ -7,4 +7,13 @@ h1{
 }
 .not{
     text-decoration: underline;
+}
+
+body{
+    background-color: lightblue;
+}
+
+
+body{
+    background-color: lightblue;
 }
